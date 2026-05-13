@@ -13,7 +13,8 @@ This project analyzes historical video game sales data to identify patterns that
 ## 📊 Key Business Insights
 1. **Platform Life Cycle:** Gaming platforms typically have a 10-year life cycle. The strategy for 2017 should heavily focus on the PS4 and Xbox One.
 2. **Review Impact:** Professional critic scores have a moderate correlation with commercial success. User scores, however, show no significant correlation.
-3. **Regional Differences:** * The NA and EU markets are very similar (Action/Shooter games on Home Consoles).
+3. **Regional Differences:** 
+   * The NA and EU markets are very similar (Action/Shooter games on Home Consoles).
    * The Japanese market is fundamentally different, dominated by Handheld consoles (Nintendo 3DS) and Role-Playing Games (RPG).
 
 ## 📂 How to Run
